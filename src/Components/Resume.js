@@ -6,7 +6,7 @@ class Resume extends React.Component {
     return (
       <center>
         <div>
-          <a href="C:\Users\sindhu\htmlportfolio.html">RESUME</a>
+          <a href="https://sindhujapranav.github.io/Portfolio/">RESUME</a>
         </div>
       </center>
     );
