@@ -19,7 +19,7 @@ class Landing extends React.Component {
                 <header style={bgimage}>
                     <h1>SINDHUJA GANESAN</h1>
                     <p>Hi! To know more about me!!!</p>
-                    <a href="#button"> Click Here!! </a>
+                    <a href="#button"> Scroll Down !! </a>
                 </header>
 
             </div>
